@@ -26,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 "# giphyApp"
+
+## APP Running
+
+To check app running click on: [Giphy APP](https://nifty-hypatia-3714f7.netlify.app/)
